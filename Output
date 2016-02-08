@@ -1,0 +1,25 @@
+
+
+Machine Learning                                                             AKSHANSH CHAHAL
+	             
+
+
+
+
+	    My accuracies for the different test files are:
+
+	    Test on file_0.txt :    Accuracy :  95.57399723374827%	
+	    Test on file_1.txt :    Accuracy :  94.88243430152144%
+	    Test on file_2.txt :    Accuracy :  95.64315352697095%
+	    Test on file_3.txt :    Accuracy :  94.88243430152144%	
+	    Test on file_4.txt :    Accuracy :  94.81327800829875%
+
+	    AVERAGE ACCURACY IS 95.159%
+
+
+	  If I would have normally predicted, then accuracy would have been (1/8)*100,
+	   that is 12.5%, since there are 8 type of documents.
+	   And by using the Naive Bayes Algorithm with Laplace Smoothing the accuracy has been 
+	   tremendously increased to approx 95%.
+	
+	
